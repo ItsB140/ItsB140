@@ -5,6 +5,7 @@
 
 [![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CallMe-B140)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ItsB140)
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/B140)
 
 ---
 Languages and Tools 🛠
