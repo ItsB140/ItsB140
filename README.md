@@ -3,8 +3,18 @@
 - 🌱 I’m currently learning more about Front-end
 
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CallMe-B140)
+[![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CallMe-B140)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ItsB140)
+
+---
+Languages and Tools 🛠
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="SASS Badge"/>
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VSCODE Badge"/>
+</div>
 
 ---
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
