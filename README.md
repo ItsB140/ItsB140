@@ -8,7 +8,7 @@
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/B140)
 
 ---
-Languages and Tools 🛠
+### Languages and Tools 🛠
 
 <div id="badges">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 Badge"/>
