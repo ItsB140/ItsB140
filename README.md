@@ -22,7 +22,7 @@
 
 ### Spotify Playing 🎧
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=plt0wavdz23otmwoakm6pbokr&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=plt0wavdz23otmwoakm6pbokr&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f)]]
+s
 
 
 ---
